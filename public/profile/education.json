@@ -1,0 +1,27 @@
+{
+    "education":[
+        {
+            "title": "November 2022 - February 2023",
+            "cardTitle": "Full Stack Developer",
+            "cardSubtitle":"Guvi Geek Networks Private Limited"
+        },
+        {
+            "title": "September 2018 - July 2022",
+            "cardTitle": "B.E-Computer Science",
+            "cardSubtitle":"Anna University,University College of Engineering,Dindigul",
+            "cardDetailedText": "CGPA - 7.6"
+        },
+        {
+            "title": "June 2017 - April 2018",
+            "cardTitle": "HSC",
+            "cardSubtitle":"Arumugam Academy Matric Higher Secondary School",
+            "cardDetailedText": "Marks - 83.75%"
+        },
+        {
+            "title": "June 2015 - May 2016",
+            "cardTitle": "SSLC",
+            "cardSubtitle":"Arumugam Academy Matric Higher Secondary School",
+            "cardDetailedText": "Marks - 94%"
+        }
+    ]
+}
