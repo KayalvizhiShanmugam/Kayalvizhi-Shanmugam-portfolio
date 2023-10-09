@@ -17,10 +17,12 @@ const styles = {
     fontWeight: 500,
   },
   introImageContainer: {
-    margin: 10,
+    border: '1px solid ',
+    borderRadius: '5px',
+    padding: '5px',
+    height: '5px',
+    width: '5px',
     justifyContent: 'center',
-    alignItems: 'center',
-    display: 'flex',
   },
 };
 
