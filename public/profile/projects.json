@@ -1,12 +1,12 @@
 {
     "projects" : [
         {
-            "title": "Dev Portfolio",
+            "title": "My Portfolio",
             "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/KayalvizhiShanmugam/Kayalvizhi-Shanmugam-portfolio"
                 }
             ],
             "tags" : [
