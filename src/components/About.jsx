@@ -16,14 +16,6 @@ const styles = {
     fontSize: '1.2em',
     fontWeight: 500,
   },
-  introImageContainer: {
-    border: '1px solid ',
-    borderRadius: '5px',
-    padding: '5px',
-    height: '5px',
-    width: '5px',
-    justifyContent: 'center',
-  },
 };
 
 function About(props) {
@@ -56,9 +48,6 @@ function About(props) {
                 <Row>
                   <Col style={styles.introTextContainer}>
                     {parseIntro(data.about)}
-                  </Col>
-                  <Col style={styles.introImageContainer}>
-                    <img src={data?.imageSource} alt="profile" />
                   </Col>
                 </Row>
               </Fade>
