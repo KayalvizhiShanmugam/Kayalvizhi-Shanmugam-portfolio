@@ -1,3 +1,6 @@
+/* eslint-disable no-dupe-keys */
+/* eslint-disable react/prop-types */
+/* eslint-disable no-undef */
 import React, { useContext } from 'react';
 import {
   Button, Card, Badge, Col,
@@ -68,6 +71,14 @@ const ProjectCard = (props) => {
               {link.text}
             </Button>
           ))}
+          {project?.links1?.map((link) => (
+            <Button
+              key={link.href}
+              onClick={() => window.open(link.href, '_blank')}
+            >
+              {link.text}
+            </Button>
+          ))}
         </Card.Body>
         {project.tags && (
           <Card.Footer style={{ backgroundColor: theme.cardFooterBackground }}>
@@ -95,6 +106,10 @@ ProjectCard.propTypes = {
     bodyText: PropTypes.string.isRequired,
     image: PropTypes.string,
     links: PropTypes.arrayOf(PropTypes.shape({
+      text: PropTypes.string.isRequired,
+      href: PropTypes.string.isRequired,
+    })),
+    links1: PropTypes.arrayOf(PropTypes.shape({
       text: PropTypes.string.isRequired,
       href: PropTypes.string.isRequired,
     })),

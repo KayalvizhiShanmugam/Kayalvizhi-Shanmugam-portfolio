@@ -9,6 +9,12 @@
                     "href": "https://github.com/KayalvizhiShanmugam/Kayalvizhi-Shanmugam-portfolio"
                 }
             ],
+            "links1":[
+                {
+                    "text":"Netlify",
+                    "href": "https://kayalvizhi-shanmugam-portfolio.netlify.app/"
+                }
+            ],
             "tags" : [
                 "React",
                 "Portfolio",
@@ -25,6 +31,12 @@
                 }
                
             ],
+            "links1":[
+                {
+                    "text": "Netlify",
+                    "href": "https://glittery-mochi-4b8596.netlify.app/"
+                }
+        ],
             "tags" : [
                 "React",
                 "JavaScript",
@@ -40,6 +52,12 @@
                 {
                     "text": "GitHub",
                     "href": "https://github.com/KayalvizhiShanmugam/pizza-delivery-app-client-main"
+                }
+            ],
+            "links1":[
+                {
+                    "text":"Netlify",
+                    "href": "https://funny-manatee-2748ab.netlify.app/"
                 }
             ],
             "tags" : [
