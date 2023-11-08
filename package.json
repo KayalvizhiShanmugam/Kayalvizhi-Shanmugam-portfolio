@@ -13,6 +13,7 @@
     "react-chrono": "^1.12.1",
     "react-dark-mode-toggle": "^0.2.0",
     "react-dom": "^18.1.0",
+    "react-icons": "^4.11.0",
     "react-markdown": "^7.0.1",
     "react-reveal": "^1.2.2",
     "react-router": "^5.2.1",
