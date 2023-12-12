@@ -26,18 +26,18 @@
             ]
         },
         {
-            "title": "Pizza Delivery App",
-            "bodyText": "- This web app allows customer to browse the menu,customize their orders.\n - Makes online payment.",
+            "title": "Chat application",
+            "bodyText": "- This website is used to chat with one or more users",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/KayalvizhiShanmugam/pizza-delivery-app-client-main"
+                    "href": "https://github.com/KayalvizhiShanmugam/chat-app-frontend"
                 }
             ],
             "links1":[
                 {
                     "text":"Netlify",
-                    "href": "https://funny-manatee-2748ab.netlify.app/"
+                    "href": "https://incredible-brioche-b26ced.netlify.app/"
                 }
             ],
             "tags" : [
@@ -48,18 +48,18 @@
             ]
         },
         {
-            "title": "Invoicing Application",
-            "bodyText": "- This website is used to create invoice templates and send invoices to clients.",
+            "title": "E-Commerce Application",
+            "bodyText": "- This website allows user to like the product and can add the product to the cart.\n - can buy the liked product. \n - Makes online payment.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/KayalvizhiShanmugam/accountill"
+                    "href": "https://github.com/KayalvizhiShanmugam/e-commerce-client"
                 }
             ],
             "links1":[
                 {
                     "text":"Netlify",
-                    "href": "https://deft-florentine-cfc035.netlify.app/"
+                    "href": "https://moonlit-shortbread-857236.netlify.app/"
                 }
             ],
             "tags" : [
@@ -70,18 +70,18 @@
             ]
         },
         {
-            "title": "Doctor Appointment",
-            "bodyText": "- A doctor appointment can be obtained by a patient  through this website",
+            "title": "Task Management Application",
+            "bodyText": "- This website allow users to add tasks  and the user can login securely",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/KayalvizhiShanmugam/Doctor-Appointment"
+                    "href": "https://github.com/KayalvizhiShanmugam/Task-management-frontend"
                 }
             ],
             "links1":[
                 {
                     "text":"Netlify",
-                    "href": "https://app.netlify.com/sites/unique-yeot-b77cb9/"
+                    "href": "https://admirable-moxie-2e7c0d.netlify.app/"
                 }
             ],
             "tags" : [
