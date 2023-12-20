@@ -26,28 +26,6 @@
             ]
         },
         {
-            "title": "Chat application",
-            "bodyText": "- This website is used to chat with one or more users",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/KayalvizhiShanmugam/chat-app-frontend"
-                }
-            ],
-            "links1":[
-                {
-                    "text":"Netlify",
-                    "href": "https://incredible-brioche-b26ced.netlify.app/"
-                }
-            ],
-            "tags" : [
-                "React",
-                "JavaScript",
-                "Expressjs",
-                "MongoDB"
-            ]
-        },
-        {
             "title": "E-Commerce Application",
             "bodyText": "- This website allows user to like the product and can add the product to the cart.\n - can buy the liked product. \n - Makes online payment.",
             "links": [
